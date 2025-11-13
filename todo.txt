@@ -1,0 +1,16 @@
+aim:
+carrot (solve_puzzle if zero)
+rabbit
+
+running while solving possible?
+
+sabotage (don't care)
+defend (time_estimated)
+
+
+- drive more efficient by moving across the plain through diagnal
+- accurate timing estimation
+
+- puzzle solving improvement
+
+- 
